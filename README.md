@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.abacus.ai/images/9ab7d726-226f-4345-a600-f5b5c1f85249.png" alt="Abstract technology banner" width="100%" />
+  <img src="https://cdn.abacus.ai/images/f1b28962-f24b-408a-8b61-c791e1714bd7.png" alt="Developer banner" width="100%" height="300" />
 
   # Davi Manoel
 
