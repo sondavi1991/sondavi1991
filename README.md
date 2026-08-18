@@ -1,90 +1,107 @@
-# Hi, I'm Davi Manoel 👋
+<div align="center">
+  <img src="https://cdn.abacus.ai/images/9ab7d726-226f-4345-a600-f5b5c1f85249.png" alt="Abstract technology banner" width="100%" />
 
-I am a **Senior Software Engineer** and **Project Manager** with more than **15 years of experience** designing, developing, leading, and delivering software projects.
+  # Davi Manoel
 
-Throughout my career, I have worked on a wide range of private projects and digital products, contributing across the entire software development lifecycle—from technical planning and architecture to implementation, delivery, maintenance, and continuous improvement.
+  ### Senior Software Engineer · Project Manager · Technical Leader
 
-I combine hands-on software engineering experience with project management, team coordination, technical leadership, and a strong understanding of business requirements.
+  **15+ years building software, leading teams, and delivering digital products.**
 
-## About me
+  <a href="https://davimanoel.com.br">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/sondavi1991">GitHub</a>
 
-- Senior Software Engineer with 15+ years of professional experience
-- Project Manager with experience coordinating software initiatives
-- Technical leader experienced in guiding and supporting development teams
-- Strong background in team management, task coordination, and delivery planning
-- Experienced in building, maintaining, and modernizing web applications
-- Extensive experience with private projects and business-oriented software solutions
-- Focused on maintainable code, pragmatic architecture, and sustainable delivery
-- Experienced in connecting technical decisions with product and business goals
+  <br /><br />
 
-## Technical experience
+  <img src="https://komarev.com/ghpvc/?username=sondavi1991&color=1f6feb&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-My professional experience includes:
+## About Me
 
-- **PHP**
-- **JavaScript**
-- **TypeScript**
-- **Ruby**
-- **React**
-- **WordPress**
-- HTML and CSS
-- Web application development
-- Front-end and back-end integration
-- Legacy system modernization
-- Software maintenance and continuous improvement
-- Custom platforms, websites, and digital products
+I am a Senior Software Engineer and Project Manager with more than 15 years of experience designing, developing, evolving, and delivering software products.
 
-## Leadership and project management
+My work combines hands-on engineering with technical leadership, project coordination, and team management. I focus on turning business needs into pragmatic, maintainable, and sustainable technical solutions.
 
-In addition to my technical background, I have extensive experience with:
+Much of my professional experience has been built through private projects, client work, and business-oriented digital products. While those projects cannot always be shared publicly, this profile is being expanded with selected work that reflects my approach to engineering and delivery.
 
-- Software project planning and coordination
-- Team management and development workflow organization
-- Task distribution and progress tracking
-- Technical guidance and mentoring
-- Collaboration between engineering, product, and business teams
-- Requirements analysis and solution definition
-- Delivery planning and prioritization
-- Process improvement and engineering best practices
-- Supporting teams throughout the software development lifecycle
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Engineering</h3>
+      <ul>
+        <li>Web applications and digital products</li>
+        <li>Front-end and back-end integration</li>
+        <li>Legacy-system modernization</li>
+        <li>Maintenance and continuous improvement</li>
+        <li>Pragmatic, maintainable architecture</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Leadership & Delivery</h3>
+      <ul>
+        <li>Software project planning and coordination</li>
+        <li>Development team leadership and management</li>
+        <li>Task prioritization and delivery tracking</li>
+        <li>Technical guidance and mentoring</li>
+        <li>Alignment across engineering, product, and business</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Selected projects
+## Core Technologies
 
-Some of my professional work has been developed for private clients, companies, and products and is therefore not publicly available.
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
 
-As I continue expanding my public portfolio, I will be adding selected projects that demonstrate my experience with software architecture, web development, modern engineering practices, and technical leadership.
+## Professional Focus
 
-- **[Simulador Guia](https://github.com/sondavi1991/simuladorguia)**  
-  A TypeScript-based web application. More details about its purpose, architecture, technical decisions, and implementation will be documented in the project repository.
+- Building and evolving web platforms, applications, and custom digital products
+- Leading development teams and creating clear, sustainable delivery workflows
+- Connecting technical direction with product priorities and business requirements
+- Maintaining and modernizing established systems without losing operational continuity
+- Promoting ownership, communication, technical quality, and continuous improvement
 
-- **[Flash Games to HTML5](https://github.com/sondavi1991/jogosFlash)**  
-  A project focused on converting Flash games to HTML5 and JavaScript.
+## Selected Public Work
 
-## Engineering principles
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Simulador Guia</h3>
+      <p>A TypeScript-based web application. The repository will continue to be documented with its product context, architecture, and technical decisions.</p>
+      <a href="https://github.com/sondavi1991/simuladorguia"><strong>Explore repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Flash Games to HTML5</h3>
+      <p>A project focused on converting Flash-based games to HTML5 and JavaScript, reflecting practical experience in technology migration.</p>
+      <a href="https://github.com/sondavi1991/jogosFlash"><strong>Explore repository →</strong></a>
+    </td>
+  </tr>
+</table>
 
-I believe good software engineering is about more than writing code. It also involves:
+## Engineering Principles
 
-- Understanding the real problem before choosing a solution
-- Making clear and responsible technical decisions
-- Building systems that are easy to maintain and evolve
-- Communicating effectively with technical and non-technical stakeholders
-- Balancing technical quality with business priorities
-- Encouraging collaboration, ownership, and continuous learning
-- Delivering value incrementally and consistently
+> Good engineering is not just about writing code. It is about understanding the problem, making responsible trade-offs, guiding people, and delivering software that can continue to evolve.
 
-## Currently improving
+- **Clarity over unnecessary complexity**
+- **Business context alongside technical quality**
+- **Sustainable delivery over short-term shortcuts**
+- **Collaboration, ownership, and transparent communication**
+- **Incremental improvement in software, processes, and teams**
 
-I am continuously expanding my public portfolio with projects that reflect my professional experience in:
+## Building in Public
 
-- Software architecture
-- Full-stack web development
-- Technical leadership
-- Project management
-- Team coordination
-- Legacy system modernization
-- Engineering processes and best practices
+I am expanding this portfolio with carefully selected public projects and case studies that demonstrate my experience in software architecture, full-stack development, technical leadership, project management, and legacy-system modernization.
 
-## Connect with me
+## Connect
 
-- Website: [davimanoel.com.br](https://davimanoel.com.br)
-- GitHub: [github.com/sondavi1991](https://github.com/sondavi1991)
+- **Website:** <a href="https://davimanoel.com.br">davimanoel.com.br</a>
+- **GitHub:** <a href="https://github.com/sondavi1991">github.com/sondavi1991</a>
