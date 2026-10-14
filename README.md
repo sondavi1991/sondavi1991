@@ -5,7 +5,7 @@
 
   ### Full-Stack Developer · Software Engineer
 
-  **10+ years building software, leading teams, and delivering digital products.**
+  **10+ years building and evolving web applications, from the interface to the database.**
 
   <a href="https://davimanoel.com.br">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/sondavi1991">GitHub</a>
@@ -19,7 +19,7 @@
 
 I am a Full-Stack Developer and Software Engineer with more than 10 years of experience designing, developing, evolving, and delivering software products.
 
-My work combines hands-on engineering with technical leadership, project coordination, and team management. I focus on turning business needs into pragmatic, maintainable, and sustainable technical solutions.
+My work spans the whole stack: user interfaces, back-end services, databases, and the integrations that connect them. I focus on turning business needs into pragmatic, maintainable, and sustainable technical solutions.
 
 Much of my professional experience has been built through private projects, client work, and business-oriented digital products. While those projects cannot always be shared publicly, this profile is being expanded with selected work that reflects my approach to engineering and delivery.
 
@@ -36,13 +36,13 @@ Much of my professional experience has been built through private projects, clie
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Leadership & Delivery</h3>
+      <h3>Full-Stack Development</h3>
       <ul>
-        <li>Software project planning and coordination</li>
-        <li>Development team leadership and management</li>
-        <li>Task prioritization and delivery tracking</li>
-        <li>Technical guidance and mentoring</li>
-        <li>Alignment across engineering, product, and business</li>
+        <li>Front-end interfaces with React and TypeScript</li>
+        <li>Back-end development with Node.js and PHP, including WordPress</li>
+        <li>Relational databases (PostgreSQL) and data modeling</li>
+        <li>Integrations with services such as WhatsApp and e-mail (SMTP)</li>
+        <li>Containerized deployment with Docker</li>
       </ul>
     </td>
   </tr>
@@ -65,10 +65,10 @@ Much of my professional experience has been built through private projects, clie
 ## Professional Focus
 
 - Building and evolving web platforms, applications, and custom digital products
-- Leading development teams and creating clear, sustainable delivery workflows
-- Connecting technical direction with product priorities and business requirements
+- Developing both sides of the stack, from React interfaces to APIs and databases
+- Integrating third-party services, such as WhatsApp and e-mail, into business workflows
 - Maintaining and modernizing established systems without losing operational continuity
-- Promoting ownership, communication, technical quality, and continuous improvement
+- Writing clear, maintainable code with attention to technical quality and continuous improvement
 
 ## Selected Public Work
 
@@ -89,17 +89,17 @@ Much of my professional experience has been built through private projects, clie
 
 ## Engineering Principles
 
-> Good engineering is not just about writing code. It is about understanding the problem, making responsible trade-offs, guiding people, and delivering software that can continue to evolve.
+> Good engineering is not just about writing code. It is about understanding the problem, making responsible trade-offs, and delivering software that can continue to evolve.
 
 - **Clarity over unnecessary complexity**
 - **Business context alongside technical quality**
 - **Sustainable delivery over short-term shortcuts**
 - **Collaboration, ownership, and transparent communication**
-- **Incremental improvement in software, processes, and teams**
+- **Incremental improvement in code, architecture, and processes**
 
 ## Building in Public
 
-I am expanding this portfolio with carefully selected public projects and case studies that demonstrate my experience in software architecture, full-stack development, technical leadership, project management, and legacy-system modernization.
+I am expanding this portfolio with carefully selected public projects and case studies that demonstrate my experience in software architecture, full-stack development, and legacy-system modernization.
 
 ## Connect
 
