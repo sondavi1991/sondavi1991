@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-labelledby="t d">
+  <title id="t">Davi Manoel</title>
+  <desc id="d">Senior Software Engineer, Project Manager and Technical Leader</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111b2b"/>
+      <stop offset="1" stop-color="#0f2a52"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <rect width="1280" height="300" fill="url(#grid)"/>
+  <rect width="1280" height="300" fill="url(#glow)"/>
+
+  <g fill="none" stroke="#1f6feb" stroke-opacity="0.55" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118 112 L70 150 L118 188"/>
+    <path d="M1162 112 L1210 150 L1162 188"/>
+  </g>
+
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="640" y="145" font-size="68" font-weight="700" fill="#f0f6fc" letter-spacing="1">Davi Manoel</text>
+    <rect x="590" y="166" width="100" height="4" rx="2" fill="#1f6feb"/>
+    <text x="640" y="212" font-size="25" fill="#9da7b3" letter-spacing="0.5">Senior Software Engineer  ·  Project Manager  ·  Technical Leader</text>
+  </g>
+</svg>
