@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://cdn.abacus.ai/images/f1b28962-f24b-408a-8b61-c791e1714bd7.png" alt="Developer banner" width="100%" height="300" />
+  <img src="assets/banner.svg" alt="Davi Manoel — Senior Software Engineer, Project Manager and Technical Leader" width="100%" />
 
   # Davi Manoel
 
   ### Senior Software Engineer · Project Manager · Technical Leader
 
-  **15+ years building software, leading teams, and delivering digital products.**
+  **10+ years building software, leading teams, and delivering digital products.**
 
   <a href="https://davimanoel.com.br">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/sondavi1991">GitHub</a>
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am a Senior Software Engineer and Project Manager with more than 15 years of experience designing, developing, evolving, and delivering software products.
+I am a Senior Software Engineer and Project Manager with more than 10 years of experience designing, developing, evolving, and delivering software products.
 
 My work combines hands-on engineering with technical leadership, project coordination, and team management. I focus on turning business needs into pragmatic, maintainable, and sustainable technical solutions.
 
