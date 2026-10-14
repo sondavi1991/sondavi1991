@@ -76,12 +76,12 @@ Much of my professional experience has been built through private projects, clie
   <tr>
     <td width="50%" valign="top">
       <h3>Simulador Guia</h3>
-      <p>A TypeScript-based web application. The repository will continue to be documented with its product context, architecture, and technical decisions.</p>
+      <p>Full-stack web application for health-plan simulation and recommendation: a configurable multi-step form, an admin panel, and lead routing to sales consultants via WhatsApp. React, Express and PostgreSQL, all in TypeScript, shipped with Docker.</p>
       <a href="https://github.com/sondavi1991/simuladorguia"><strong>Explore repository →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Flash Games to HTML5</h3>
-      <p>A project focused on converting Flash-based games to HTML5 and JavaScript, reflecting practical experience in technology migration.</p>
+      <h3>Matemago 1 (Unity WebGL)</h3>
+      <p>Browser build of the game Matemago 1, exported from Unity to WebGL and WebAssembly and served as a static site. Part of the HTML5 game work for Clickideias.</p>
       <a href="https://github.com/sondavi1991/jogosFlash"><strong>Explore repository →</strong></a>
     </td>
   </tr>
